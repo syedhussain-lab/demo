@@ -1,4 +1,4 @@
 # demo
-syed hussain
+syed hussain(author)
 <br>
 this is my first git repositery
